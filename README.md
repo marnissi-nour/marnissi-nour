@@ -1,97 +1,190 @@
-# 🌸 Hi, I'm Nour Marnissi!
+# 🌸 Nour Marnissi
 
-### AI Engineering Student | Machine Learning | Deep Learning | Generative AI
+<div align="center">
 
-I'm an **AI Engineering student at ESPRIT, Tunisia**, passionate about building intelligent systems and turning data into practical solutions.
+### AI Engineering Student | Machine Learning | Generative AI
 
-My interests lie in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI. I enjoy developing end-to-end AI applications, experimenting with models, and integrating intelligent solutions into real-world workflows.
+*Turning curiosity into code, and ideas into intelligent solutions.*
 
-- 🎓 AI Engineering Student at **ESPRIT**
-- 🤖 Interested in AI, ML, Deep Learning & Generative AI
-- 🔍 Exploring Computer Vision, OCR, RAG & AI-powered automation
-- 💻 Building practical AI applications and data-driven solutions
-- 🌱 Always learning, experimenting and building.
+[LinkedIn](https://linkedin.com/in/nmarnissi) · [GitHub](https://github.com/marnissi-nour) · [Email](mailto:marnissinour66@gmail.com)
+
+🌷 `Artificial Intelligence` · `Python` · `Deep Learning` · `Generative AI`
+
+</div>
 
 ---
 
-## 🌷 Featured Projects
+## 🎀 About Me
 
-Here are some of the projects I've worked on:
+```python
+class NourMarnissi:
+    def __init__(self):
+        self.name = "Nour Marnissi"
+        self.role = "AI Engineering Student"
+        self.education = "ESPRIT, Tunisia"
 
-| Project | Description | Technologies |
-|---|---|---|
-| **Intelligent Financial Document Processing** | AI-powered financial document classification, OCR, fraud detection and validation integrated with Odoo. | Python, TensorFlow, YOLOv8, EasyOCR, PaddleOCR, LangChain |
-| **AI Resume & Job Matching** | An AI application that analyzes CVs, compares them with job descriptions and identifies skill gaps. | Python, FastAPI, Streamlit, NLP, Mistral AI |
-| **AI Pitch Deck Evaluator** | An AI-powered tool that evaluates startup pitch decks and provides structured feedback. | Node.js, JavaScript, Mistral AI |
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning & Deep Learning",
+            "Generative AI & LLMs",
+            "Computer Vision",
+            "Natural Language Processing",
+            "Retrieval-Augmented Generation"
+        ]
+
+        self.tools = [
+            "Python", "TensorFlow", "PyTorch",
+            "Scikit-learn", "OpenCV", "LangChain",
+            "FastAPI", "Streamlit", "Mistral AI"
+        ]
+
+        self.current_focus = [
+            "Building intelligent applications",
+            "Exploring LLMs and RAG architectures",
+            "Developing end-to-end AI solutions",
+            "Turning data into real-world value"
+        ]
+
+    def say_hello(self):
+        return "Welcome to my little corner of AI! 🌸"
+
+
+me = NourMarnissi()
+print(me.say_hello())
+```
+
+I'm an AI Engineering student passionate about building practical AI solutions and exploring how intelligent systems can solve real-world problems.
+
+I enjoy working across the AI development lifecycle, from data preparation and model training to API development and deployment.
 
 ---
 
 ## 🧠 Tech Stack
 
-### Artificial Intelligence & Machine Learning
+**Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-F7A8B8?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FFB6C1?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-FAD0C4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-F7A8B8?style=for-the-badge&logo=pandas&logoColor=white)
+`Python` · `C` · `C++` · `JavaScript` · `SQL`
 
-### Generative AI & NLP
+**AI & Machine Learning**
 
-![LangChain](https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge&logo=chainlink&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FFB6C1?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FAD0C4?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-F7A8B8?style=for-the-badge&logo=openai&logoColor=white)
+`TensorFlow` · `PyTorch` · `Scikit-learn` · `OpenCV` · `Pandas` · `NumPy`
 
-### Computer Vision & Document Intelligence
+**Generative AI & Development**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FFB6C1?style=for-the-badge&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-FAD0C4?style=for-the-badge&logoColor=white)
+`LangChain` · `Mistral AI` · `LLMs` · `RAG` · `FastAPI` · `Streamlit` · `Node.js`
 
-### Backend & Data
+**Tools & Platforms**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FFB6C1?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FAD0C4?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-F7A8B8?style=for-the-badge&logo=sqlite&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-FF69B4?style=for-the-badge&logo=odoo&logoColor=white)
+`Git` · `GitHub` · `Google Colab` · `Jupyter Notebook`
 
-### Programming & Development Tools
+**Embedded Systems & IoT**
 
-![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-F7A8B8?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FAD0C4?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-F7A8B8?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FAD0C4?style=for-the-badge&logo=linux&logoColor=white)
+`Arduino` · `ESP32` · `Raspberry Pi` · `Embedded C/C++`
 
 ---
 
-## 📊 GitHub Analytics
+## 💗 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marnissi-nour&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marnissi-nour&layout=compact&theme=rose_pine&hide_border=true" height="165"/>
-</p>
+### 🤖 1. AI Resume & Job Matching System
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marnissi-nour&theme=rose_pine&hide_border=true"/>
-</p>
+An intelligent application that analyzes CVs and job descriptions to evaluate compatibility and provide actionable career insights.
+
+**Key Features**
+- CV and job description analysis
+- Semantic similarity and matching score
+- Skill gap identification
+- Personalized improvement recommendations
+
+**Technologies:** Python · FastAPI · Streamlit · Mistral AI · Embeddings · Pydantic
+
+[🌸 View Repository](https://github.com/marnissi-nour/AI-Resume-Job-Matching-System)
+
+---
+
+### 📊 2. AI Pitch Deck Evaluator
+
+An AI-powered application that analyzes startup pitch decks and generates structured, investor-oriented feedback.
+
+**Key Features**
+- PDF pitch deck analysis
+- AI-powered evaluation
+- Structured feedback and recommendations
+
+**Technologies:** Mistral AI · Node.js · JavaScript · HTML · CSS
+
+[🌸 View Repository](https://github.com/marnissi-nour/pitch-deck-evaluator) · [🚀 Live Demo](https://pitch-deck-evaluator-production.up.railway.app)
+
+---
+
+### 🧠 3. Face Mask Detection using CNN
+
+A computer vision project using Convolutional Neural Networks to classify images based on face mask usage.
+
+**Technologies:** Python · TensorFlow · Keras · CNN
+
+[🌸 View Repository](https://github.com/marnissi-nour/face-mask-detection-cnn)
+
+---
+
+### 🏡 4. Automated Home Automation System
+
+An IoT-based project focused on home automation using an ESP32 microcontroller.
+
+**Technologies:** ESP32 · Embedded C/C++ · IoT
+
+[🌸 View Repository](https://github.com/marnissi-nour/Automated-Home-Automation-System-Based-on-ESP32)
+
+---
+
+### 🐱 5. Smart Cat Feeder
+
+An embedded systems project exploring automated pet feeding through connected hardware.
+
+**Technologies:** Embedded Systems · IoT · Microcontrollers
+
+[🌸 View Repository](https://github.com/marnissi-nour/Smart-Cat-Feeder)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+**Explore my GitHub activity**
+
+[🌷 GitHub Overview](https://github.com/marnissi-nour?tab=overview)
+
+[💻 My Repositories](https://github.com/marnissi-nour?tab=repositories)
+
+[🔥 My Contributions](https://github.com/marnissi-nour?tab=overview#contributions)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and intelligent workflows
+- Advanced Machine Learning and Deep Learning
+- Deploying and integrating AI applications
+- Building end-to-end AI solutions
 
 ---
 
 ## 💌 Let's Connect!
 
-I'm always open to connecting with people passionate about AI, collaborating on interesting projects, and exploring new opportunities.
+I'm always open to collaborating on interesting projects, exchanging ideas, and connecting with people passionate about AI and technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nmarnissi)
-[![Gmail](https://img.shields.io/badge/Email-Contact-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marnissinour66@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-F7A8B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marnissi-nour)
+<div align="center">
 
-<p align="center">
-  <i>Building intelligent solutions, one project at a time. 🌸</i>
-</p>
+[LinkedIn](https://linkedin.com/in/nmarnissi) · [GitHub](https://github.com/marnissi-nour) · [Send me an email](mailto:marnissinour66@gmail.com)
+
+---
+
+### 🌸 "The best way to predict the future is to build it."
+
+*Thanks for visiting my little corner of GitHub! 💗*
+
+</div>
